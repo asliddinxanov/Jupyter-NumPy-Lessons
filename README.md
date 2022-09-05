@@ -1,4 +1,5 @@
-# Jupyter-NumPy-Lessons
-## NumPy lessons for Data Sciense
+# NumPy lessons for Data Sciense
 
 ### NumPy
+
+
